@@ -1,0 +1,31 @@
+  /*medias Q index*/
+  @media screen and (max-width:768px){
+    .row-propia{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    }
+    @media screen and (max-width:500px){
+        .p-propio-index{
+            font-size: 1.2rem;
+        }
+        
+        .navbar-propia{
+            padding-right: 0;
+            font-size: 14px;
+        }
+    .fotoIn{
+        width: 350px;
+        height: 350px;
+    }
+    .iframe-propia{
+        width: 350px;
+        height: 350px;
+    }
+    .foot-p{
+        font-size: 0.7rem;
+    }
+    
+    }
+    

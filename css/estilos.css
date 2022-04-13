@@ -96,6 +96,23 @@ body{
         .foot-p{
             font-size: 0.7rem;
         }
+        .row-propia img{
+            transform: translate(0px,0px);
+        }
+        .row-propia img:hover{
+        transform: translate(none);
+        transition: 1s;
+        position: relative;
+        z-index: 1;
+        
+        }
+        .row-propia iframe{
+            transform: translate(0px,0px);
+        }
+        .row-propia iframe:hover{
+            transform: translate(none);
+            transition: 1s;
+        }
         
         }
         
